@@ -1,0 +1,22 @@
+{
+  "name": "zion-cassandra",
+  "version": "1.0.0",
+  "description": "Online retail",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "RF",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.7",
+    "morgan": "^1.7.0",
+    "jquery": "^3.1.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "axios": "0.19.2"
+  }
+}
